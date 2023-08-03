@@ -82,6 +82,7 @@ body {
   align-items: center;
   justify-content: space-between;
   gap: 20px;
+  background-color: white;
 }
 .user-options a {
   color: grey;
@@ -133,7 +134,7 @@ body {
   top: 60px;
   width: 100vw;
   height: 60px;
-  /* background: #fff; */
+  background: #fff;
   border-top: 1px solid #dbdbdb;
   border-bottom: 1px solid #dbdbdb;
   padding: 0 20px;
